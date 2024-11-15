@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Wi-Fi Deauth Tool
+Comment=Tool for performing Wi-Fi deauthentication attacks
+Exec=sudo /usr/local/bin/deauth.py
+Icon=/usr/share/pixmaps/deauth_icon.png
+Terminal=true
+Type=Application
+Categories=Network;
